@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myresume/static/css/main.1e68dfc5.chunk.css",
+    "main.js": "/myresume/static/js/main.89c1ad12.chunk.js",
+    "main.js.map": "/myresume/static/js/main.89c1ad12.chunk.js.map",
+    "runtime-main.js": "/myresume/static/js/runtime-main.24f13381.js",
+    "runtime-main.js.map": "/myresume/static/js/runtime-main.24f13381.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/myresume/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.528886c6.chunk.js": "/myresume/static/js/2.528886c6.chunk.js",
+    "static/js/2.528886c6.chunk.js.map": "/myresume/static/js/2.528886c6.chunk.js.map",
+    "index.html": "/myresume/index.html",
+    "precache-manifest.91233af6f4fbae98a6d522f2bea46f93.js": "/myresume/precache-manifest.91233af6f4fbae98a6d522f2bea46f93.js",
+    "service-worker.js": "/myresume/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/myresume/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1e68dfc5.chunk.css.map": "/myresume/static/css/main.1e68dfc5.chunk.css.map",
+    "static/js/2.528886c6.chunk.js.LICENSE.txt": "/myresume/static/js/2.528886c6.chunk.js.LICENSE.txt",
+    "static/media/sudhir.jpg": "/myresume/static/media/sudhir.eb7f2161.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f13381.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.528886c6.chunk.js",
+    "static/css/main.1e68dfc5.chunk.css",
+    "static/js/main.89c1ad12.chunk.js"
+  ]
+}
