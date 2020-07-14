@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/myresume/static/css/main.1e68dfc5.chunk.css",
-    "main.js": "/myresume/static/js/main.d87742e4.chunk.js",
-    "main.js.map": "/myresume/static/js/main.d87742e4.chunk.js.map",
+    "main.css": "/myresume/static/css/main.d8b8d5dc.chunk.css",
+    "main.js": "/myresume/static/js/main.2207fbdb.chunk.js",
+    "main.js.map": "/myresume/static/js/main.2207fbdb.chunk.js.map",
     "runtime-main.js": "/myresume/static/js/runtime-main.24f13381.js",
     "runtime-main.js.map": "/myresume/static/js/runtime-main.24f13381.js.map",
     "static/css/2.af3c1da9.chunk.css": "/myresume/static/css/2.af3c1da9.chunk.css",
     "static/js/2.e1693d77.chunk.js": "/myresume/static/js/2.e1693d77.chunk.js",
     "static/js/2.e1693d77.chunk.js.map": "/myresume/static/js/2.e1693d77.chunk.js.map",
     "index.html": "/myresume/index.html",
-    "precache-manifest.3b81fbc1a4b9e4e2ed436aab4b5d1de5.js": "/myresume/precache-manifest.3b81fbc1a4b9e4e2ed436aab4b5d1de5.js",
+    "precache-manifest.65a03a1301b452aadd0e02e59b697d59.js": "/myresume/precache-manifest.65a03a1301b452aadd0e02e59b697d59.js",
     "service-worker.js": "/myresume/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/myresume/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.1e68dfc5.chunk.css.map": "/myresume/static/css/main.1e68dfc5.chunk.css.map",
-    "static/js/2.e1693d77.chunk.js.LICENSE.txt": "/myresume/static/js/2.e1693d77.chunk.js.LICENSE.txt",
-    "static/media/sudhir.jpg": "/myresume/static/media/sudhir.eb7f2161.jpg"
+    "static/css/main.d8b8d5dc.chunk.css.map": "/myresume/static/css/main.d8b8d5dc.chunk.css.map",
+    "static/js/2.e1693d77.chunk.js.LICENSE.txt": "/myresume/static/js/2.e1693d77.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24f13381.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.e1693d77.chunk.js",
-    "static/css/main.1e68dfc5.chunk.css",
-    "static/js/main.d87742e4.chunk.js"
+    "static/css/main.d8b8d5dc.chunk.css",
+    "static/js/main.2207fbdb.chunk.js"
   ]
 }
